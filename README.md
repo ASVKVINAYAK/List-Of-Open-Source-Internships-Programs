@@ -1,3 +1,5 @@
+# More Details [IIT Kgp Wiki] https://wiki.metakgp.org/w/List_of_internship_programs
+
 This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
 
 All PR's are now being entertained, Please star this repo in order to get further updates
